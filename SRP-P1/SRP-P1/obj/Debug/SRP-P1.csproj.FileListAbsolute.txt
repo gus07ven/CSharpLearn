@@ -1,0 +1,6 @@
+c:\users\gusta\onedrive\documents\visual studio 2017\Projects\SRP-P1\SRP-P1\bin\Debug\SRP-P1.exe.config
+c:\users\gusta\onedrive\documents\visual studio 2017\Projects\SRP-P1\SRP-P1\bin\Debug\SRP-P1.exe
+c:\users\gusta\onedrive\documents\visual studio 2017\Projects\SRP-P1\SRP-P1\bin\Debug\SRP-P1.pdb
+c:\users\gusta\onedrive\documents\visual studio 2017\Projects\SRP-P1\SRP-P1\obj\Debug\SRP-P1.csprojResolveAssemblyReference.cache
+c:\users\gusta\onedrive\documents\visual studio 2017\Projects\SRP-P1\SRP-P1\obj\Debug\SRP-P1.exe
+c:\users\gusta\onedrive\documents\visual studio 2017\Projects\SRP-P1\SRP-P1\obj\Debug\SRP-P1.pdb
